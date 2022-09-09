@@ -1,2 +1,2 @@
 # Abschlussaufgabe Geosoftware 1
-## Tim Lehmann (Matr.N.) und Tobias Krumrein (506269)
+## Tim Lehmann (503417) und Tobias Krumrein (506269)
